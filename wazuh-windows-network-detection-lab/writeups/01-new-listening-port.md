@@ -28,3 +28,5 @@ Rule `100201` triggers when Wazuh Syscollector detects a new port entry with the
   </description>
   <group>network_ports,opened_port,</group>
 </rule>
+
+![Rule 100201 Alert](../screenshots/100201-new-listening-port.png)
