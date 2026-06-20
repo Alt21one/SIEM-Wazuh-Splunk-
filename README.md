@@ -27,12 +27,15 @@ This project demonstrates custom Wazuh detection engineering for Windows endpoin
 
 All rules were successfully tested in the Wazuh dashboard. Syscollector detected newly opened listening ports, while Sysmon provided process-level telemetry for outbound network connections.
 
-![Rule 100201 Alert](../screenshots/100201-new-listening-port.png)
+##
+
+<img width="1915" height="93" alt="100201-new-listening-port" src="https://github.com/user-attachments/assets/b4c2a91a-c44d-4728-9871-d96811f39f7b" />
 
 ## 
 
-![Rule 100202 Alert](../screenshots/100202-suspicious-listening-port.png)
+<img width="2197" height="716" alt="100202-suspicious-listening-port" src="https://github.com/user-attachments/assets/e3965343-4d34-488c-af68-129b643368fb" />
 
 ##
 
-![Rule 100203 Alert](../screenshots/100203-outbound-suspicious-port.png)
+<img width="2114" height="744" alt="100203-outbound-suspicious-port" src="https://github.com/user-attachments/assets/fb5388a1-9464-4f4b-8194-4176d4f529be" />
+
